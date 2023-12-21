@@ -1,8 +1,7 @@
 { 
     "spam": "",
     "saveworld": "",
-    "tax": 10,
-    "ag": false,
+    "tax": 10, 
     "qm": false,
     "rm": false,
     "farmid": 0,
