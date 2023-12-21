@@ -8,6 +8,13 @@
     "mods": false,
     "modsc": false,
     "modsban": false,
-    "modsexit": false
+    "modsexit": false,
+    "vname": "",
+    "vname1": false,
+    "legend": false,
+    "mentor": false,
+    "doctor", false,
+    "maxlevel", false,
+    "g4g", false
 }
     
